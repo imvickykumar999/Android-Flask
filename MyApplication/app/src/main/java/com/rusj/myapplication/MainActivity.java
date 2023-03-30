@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private Button button_send_post;
     private Button button_send_get;
     private TextView textView_response;
-    private String url=""// *****put your URL here*********
+    private String url="https://www.instagram.com/reels/CqAi7V5Mjgh/";
     private String POST="POST";
     private String GET="GET";
 
